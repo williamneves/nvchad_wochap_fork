@@ -7,7 +7,7 @@
 ## Getting started
 
 ```sh
-$ git clone git@github.com:wochap/nvim.git ~/.config/nvim
+$ git clone https://github.com/williamneves/nvchad_wochap_fork.git ~/.config/nvim
 $ cd ~/.config/nvim
 $ git remote add nvchad https://github.com/NvChad/NvChad.git
 $ nvim
